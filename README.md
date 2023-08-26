@@ -1,1 +1,1 @@
-- 👋 Merhaba, Ben Burhan Karataş
+👋 Merhaba, Ben Burhan Karataş
