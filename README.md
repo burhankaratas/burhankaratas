@@ -1,6 +1,6 @@
 # Merhaba 👋
 
-Merhaba, benim adım [Burhan Karataş]. Bu GitHub profilim, projelerimi paylaşmak, yazılım geliştirme becerilerimi sergilemek ve diğer geliştiricilerle iletişim kurmak için oluşturulmuş bir hesaptır..
+Merhaba, benim adım [Burhan Karataş]. Bu GitHub profilim, projelerimi paylaşmak, yazılım geliştirme becerilerimi sergilemek ve diğer geliştiricilerle iletişim kurmak için oluşturulmuş bir hesaptır.
 
 ## Yeteneklerim
 
