@@ -10,10 +10,10 @@ Merhaba, benim adım [Burhan Karataş]. Bu GitHub profilim, projelerimi paylaşm
   - ![CSS](https://progress-bar.dev/30)
 - 📱 Bootstrap: 50%
   - ![Bootstrap](https://progress-bar.dev/50)
-- 🚀 Node.js: 40%
-  - ![Node.js](https://progress-bar.dev/40)
-- 🌐 Flask: 50%
-  - ![Flask](https://progress-bar.dev/50)
+- 🚀 Node.js: 20%
+  - ![Node.js](https://progress-bar.dev/20)
+- 🌐 Flask: 60%
+  - ![Flask](https://progress-bar.dev/60)
 - 💼 C#: 10%
   - ![C#](https://progress-bar.dev/10)
 
