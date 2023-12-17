@@ -4,18 +4,8 @@ Merhaba, benim adım [Burhan Karataş]. Bu GitHub profilim, projelerimi paylaşm
 
 ## Yeteneklerim
 
-- 💻 HTML: 70%
-  - ![HTML](https://progress-bar.dev/70)
-- 🎨 CSS: 30%
-  - ![CSS](https://progress-bar.dev/30)
-- 📱 Bootstrap: 50%
-  - ![Bootstrap](https://progress-bar.dev/50)
-- 🚀 Node.js: 20%
-  - ![Node.js](https://progress-bar.dev/20)
-- 🌐 Flask: 60%
-  - ![Flask](https://progress-bar.dev/60)
-- 💼 C#: 10%
-  - ![C#](https://progress-bar.dev/10)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,py,mysql)](https://skillicons.dev)
+
 
 ## İletişim
 
