@@ -11,3 +11,5 @@ Merhaba, benim adım [Burhan Karataş]. Bu GitHub profilim, projelerimi paylaşm
 
 - 📧 [burhankaratas771@gmail.com]: E-posta yoluyla bana ulaşın.
 
+
+[![](https://visitcount.itsvg.in/api?id=burhankaratas&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
